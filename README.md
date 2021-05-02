@@ -7,6 +7,7 @@ The purpose of this project was to help Steve analyze stock data to help advise 
 ## Results
 
 Through this analysis, we were able to obtain the returns for the stocks from both 2017 and 2018. In 2017, most of the stocks had positive return rates, with only TERP having a negative return. However, in 2018 all but two of the stocks had negative return rates. Ultimately, the stocks performed better in 2017 as illustrated below. 
+
 ![2017 Stocks](https://github.com/naomishields/stock-analysis/blob/main/images/2017%20stocks.png)
 ![2018 Stocks](https://github.com/naomishields/stock-analysis/blob/main/images/2018%20stocks.png)
 
